@@ -4,7 +4,7 @@
     --card-bg: #1e1e1e;
     --text-main: #e0e0e0;
     --text-secondary: #a0a0a0;
-    --accent: #00d4ff; /* Azul Ne¨®n */
+    --accent: #00d4ff; /* Azul Neï¿½ï¿½n */
     --accent-hover: #00a8cc;
 }
 
@@ -143,6 +143,14 @@ body {
 
 .tag {
     background-color: #333;
+    padding: 4px 10px;
+    border-radius: 20px;
+    font-size: 0.75rem;
+    margin-right: 5px;
+    color: #fff;
+}
+.tag-dev {
+    background-color: #57b11b;
     padding: 4px 10px;
     border-radius: 20px;
     font-size: 0.75rem;
